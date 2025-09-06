@@ -1,0 +1,37 @@
+{
+    "VITBPL": {
+        "password": "m8411t",
+        "type": "enterprise",
+        "priority": 1,
+        "username": "23BCE10247"
+    },
+    "Nokia": {
+        "password": "lovingearth@123",
+        "type": "home",
+        "priority": 1,
+        "username": null
+    },
+    "Shlok's Galaxy A35": {
+        "priority": 3,
+        "password": "Shlok1524",
+        "type": "home"
+    },
+    "zeroisone": {
+        "password": "zero",
+        "type": "home",
+        "priority": 99,
+        "username": null
+    },
+    "aditya": {
+        "password": "26373",
+        "type": "home",
+        "priority": 99,
+        "username": null
+    },
+    "ghj": {
+        "password": "56567",
+        "type": "home",
+        "priority": 3,
+        "username": null
+    }
+}
