@@ -33,5 +33,17 @@
         "type": "home",
         "priority": 3,
         "username": null
+    },
+    "User": {
+        "password": "1221",
+        "type": "home",
+        "priority": 1,
+        "username": null
+    },
+    "USER": {
+        "password": "1234",
+        "type": "home",
+        "priority": 99,
+        "username": null
     }
 }
